@@ -8,19 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=I%20love%20coding%20%3A3" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 Computer Science student passionate about software development, web technologies, and building practical projects. Always learning, always shipping.
 
-🔭 &nbsp;I'm currently working on **Discord bots, web applications, linux distros, and personal coding projects**  
-🌱 &nbsp;I'm currently learning **Java, C++, databases, Linux, and modern web development**  
-👯 &nbsp;I'm looking to collaborate on **Open-source projects, hackathons, and beginner-friendly software projects**  
-🤔 &nbsp;I'm looking for help with **Backend development, system design, and open-source contributions**  
-💬 &nbsp;Ask me about **HTML, CSS, JavaScript, C++, Linux, Git, or web development**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I enjoy building software, playing guitar, and turning random ideas into projects.**
+ &nbsp;I'm currently working on **Discord bots, web applications, linux distros, and personal coding projects**  
+ &nbsp;I'm currently learning **Java, C++, databases, Linux, and modern web development**  
+ &nbsp;I'm looking to collaborate on **Open-source projects, hackathons, and beginner-friendly software projects**  
+ &nbsp;I'm looking for help with **Backend development, system design, and open-source contributions**  
+ &nbsp;Ask me about **HTML, CSS, JavaScript, C++, Linux, Git, or web development**  
+ &nbsp;Pronouns: **she/her**  
+ &nbsp;Fun fact: **I enjoy building software, playing guitar, and turning random ideas into projects.**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -57,24 +57,19 @@ Computer Science student passionate about software development, web technologies
   <a href="mailto:irisigjoni3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=iris18102006&show_icons=true&theme=tokyonight&title_color=f28af4&icon_color=f28af4&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=iris18102006&layout=compact&theme=tokyonight&title_color=f28af4&icon_color=f28af4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iris18102006&bg_color=00000000&color=f28af4&line=f28af4&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
+###  Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/iris18102006">iris18102006</a></i></p>
+<p align="center"><i> From <a href="https://github.com/iris18102006">iris18102006</a></i></p>
