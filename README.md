@@ -12,7 +12,7 @@
 
 Computer Science student passionate about software development, web technologies, and building practical projects. Always learning, always shipping.
 
- &nbsp;I'm currently working on **Discord bots, web applications, linux distros, and personal coding projects**  
+ &nbsp;I'm currently working on **Mobile apps, personal websites, web applications, linux distros, and personal coding projects**  
  &nbsp;I'm currently learning **Java, C++, databases, Linux, and modern web development**  
  &nbsp;I'm looking to collaborate on **Open-source projects, hackathons, and beginner-friendly software projects**  
  &nbsp;I'm looking for help with **Backend development, system design, and open-source contributions**  
