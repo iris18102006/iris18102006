@@ -34,12 +34,12 @@ breaking Linux, and turning random ideas into projects.
 
 Currently learning and working with:
 
-`Java` · `Python` · `C++` · `JavaScript` · `HTML/CSS` · `SQL` · `Linux` · `Git`
+`Java` · `Python` · `C++` · `JavaScript` · `HTML/CSS` · `SQL` · `Linux` · `Git` · `C#` · `Rust` 
 
 I'm especially interested in software development, Linux, cybersecurity,
 systems, web applications, and open-source projects.
 
-When I'm not coding, I'm probably playing guitar.
+When I'm not coding, I'm probably playing guitar or sketching.
 
 <p align="center"><img src="assets/bat.gif" width="100" alt="Animated bat"></p>
 
