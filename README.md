@@ -1,7 +1,7 @@
 <!-- Replace YOUR_GIF_LINK_HERE with a direct .gif URL if you want to use your own GIF. -->
 
 <p align="center">
-  <img src="assets/divider_top.png" width="80%" alt="Gothic divider">
+  <img src="divider_top.png" width="80%" alt="Gothic divider">
 </p>
 
 <p align="center">
@@ -99,4 +99,4 @@ An AI chatbot experiment exploring Gemini, tool calling, databases, and speech i
 
 <p align="center"><i>"build something worth keeping."</i></p>
 <p align="center">† ───────────── 🦇 ───────────── †</p>
-<p align="center"><img src="assets/divider_bottom.png" width="80%" alt="Gothic divider"></p>
+<p align="center"><img src="divider_bottom.png" width="80%" alt="Gothic divider"></p>
