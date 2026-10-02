@@ -48,7 +48,7 @@ When I'm not coding, I'm probably playing guitar or sketching.
 ## 𝔗𝔢𝔠𝔥 𝔖𝔱𝔞𝔠𝔨
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,sql,lua,react,nodejs,mysql,docker,git,github,gitlab,linux,vim,vscode,idea,figma,vercel,netlify& perline=11" alt="Technology icons">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,sql,lua,react,nodejs,mysql,docker,git,github,gitlab,linux,vim,vscode,idea,figma,vercel,netlify&perline=11" alt="Technology icons">
 </p>
 
 ## 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
