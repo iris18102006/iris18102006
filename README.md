@@ -29,7 +29,7 @@
 ## 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
 
 I'm **Iris**, a Computer Science student from Albania building software,
-breaking Linux, and turning random ideas into projects.
+using Linux, and turning random ideas into projects.
 
 Currently learning and working with:
 
@@ -38,9 +38,10 @@ Currently learning and working with:
 I'm especially interested in software development, Linux, cybersecurity,
 systems, web applications, and open-source projects.
 
-When I'm not coding, I'm probably playing guitar or sketching.
+When I'm not coding, I'm probably playing guitar or sketching. 
 
-<p align="center"><img src="bat.gif" width="100" alt="Animated bat"></p>
+
+<p align="center"><img src="bat.gif" width="100" alt="Animated bat">(me fr)</p>
 
 ---
 
