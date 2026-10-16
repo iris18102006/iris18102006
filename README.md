@@ -41,7 +41,8 @@ systems, web applications, and open-source projects.
 When I'm not coding, I'm probably playing guitar or sketching. 
 
 
-<p align="center"><img src="bat.gif" width="100" alt="Animated bat">(me fr)</p>
+<p align="center"><img src="bat.gif" width="100" alt="Animated bat"></p>
+<p align="center">(me eating banenei)</p>
 
 ---
 
