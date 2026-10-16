@@ -1,21 +1,20 @@
-<!-- Replace YOUR_GIF_LINK_HERE with a direct .gif URL if you want to use your own GIF. -->
+
 
 <p align="center">
   <img src="divider_top.png" width="80%" alt="Gothic divider">
 </p>
 
 <p align="center">
-  <!-- Local animated cross necklace -->
+ 
   <img src="cross.gif" width="180" alt="Animated cross necklace">
 </p>
 
-<!-- Optional external GIF: paste a direct GIF link inside the src attribute below. -->
-<!-- <p align="center"><img src="YOUR_GIF_LINK_HERE" width="180" alt="Your GIF"></p> -->
+
 
 <h1 align="center">𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰, 𝔰𝔱𝔯𝔞𝔫𝔤𝔢𝔯</h1>
 
 <p align="center">
-  <i>I'm Iris, a Computer Science student who builds things, breaks Linux, and plays guitar.</i>
+  <i>I'm Iris, a Computer Science student who builds things, LOVES Linux, and plays electric guitar.</i>
 </p>
 
 <p align="center">† ───────── ⋆｡°✩°｡⋆ ───────── †</p>
@@ -58,12 +57,6 @@ Voice-first study application for learning from PDFs, YouTube videos, and text.
 
 ### 🖳 IrisOS
 My own Debian-based Linux distribution.
-
-### 𖤐 LUMA
-Web-based incident-reporting application built with HTML, CSS, JavaScript, and localStorage.
-
-### 𓏲ּ𝄢 Retro Snake
-A classic Snake game recreated as a small programming project.
 
 ### ⏾ Hand Particle System
 Real-time hand-controlled particles using Python, OpenCV, and MediaPipe.
