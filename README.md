@@ -76,12 +76,11 @@ An AI robot experiment exploring Gemini, tool calling, databases, and speech int
 ✦ exploring cybersecurity and open-source
 ✦ probably breaking something
 ```
-
 ## 𝔊𝔦𝔱𝔥𝔲𝔟 𝔖𝔱𝔞𝔱𝔰
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iris18102006&show_icons=true&hide_border=true&theme=dark&bg_color=#FFB4B4&title_color=#953606&icon_color=#DB0909&text_color=#950606" height="170" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iris18102006&layout=compact&hide_border=true&theme=dark&bg_color=#FFB4B4&title_color=#953606&text_color=#DB0909" height="170" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=iris18102006&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;bg_color=FFB4B4&amp;title_color=953606&amp;icon_color=DB0909&amp;text_color=950606" height="170" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iris18102006&amp;layout=compact&amp;hide_border=true&amp;theme=dark&amp;bg_color=FFB4B4&amp;title_color=953606&amp;text_color=950606" height="170" alt="Most used languages">
 </p>
 
 ## ℭ𝔬𝔫𝔫𝔢𝔠𝔱 𝔚𝔦𝔱𝔥 𝔐𝔢
