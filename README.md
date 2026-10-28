@@ -78,9 +78,11 @@ An AI robot experiment exploring Gemini, tool calling, databases, and speech int
 ```
 ## 𝔊𝔦𝔱𝔥𝔲𝔟 𝔖𝔱𝔞𝔱𝔰
 
+## 𝔊𝔦𝔱𝔥𝔲𝔟 𝔖𝔱𝔞𝔱𝔰
+
 <p align="center">
- <img src="./profile/stats.svg" height="170" alt="GitHub statistics">
-<img src="./profile/top-langs.svg" height="170" alt="Most used languages">
+  <img src="./profile/stats.svg" height="170" alt="GitHub statistics">
+  <img src="./profile/top-langs.svg" height="170" alt="Most used languages">
 </p>
 
 ## ℭ𝔬𝔫𝔫𝔢𝔠𝔱 𝔚𝔦𝔱𝔥 𝔐𝔢
