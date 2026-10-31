@@ -84,6 +84,9 @@ An AI robot experiment exploring Gemini, tool calling, databases, and speech int
   <img src="./profile/stats.svg" height="170" alt="GitHub statistics">
   <img src="./profile/top-langs.svg" height="170" alt="Most used languages">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=visitors&style=flat" alt="Visitor counter" />
+</p>
 
 ## ℭ𝔬𝔫𝔫𝔢𝔠𝔱 𝔚𝔦𝔱𝔥 𝔐𝔢
 
