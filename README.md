@@ -92,7 +92,6 @@ An AI robot experiment exploring Gemini, tool calling, databases, and speech int
 
 <p align="center">
   <a href="www.linkedin.com/in/iris-gjoni-b9150a389"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://www.instagram.com/](https://www.instagram.com/orkideja._/)"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:irisigjoni3@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
