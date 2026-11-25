@@ -63,8 +63,8 @@ My own Debian-based Linux distribution.
 ### ⏾ Hand Particle System
 Real-time hand-controlled particles using Python, OpenCV, and MediaPipe.
 
-### 𑣲⋆ PolisBot
-An AI robot experiment exploring Gemini, tool calling, databases, and speech interfaces.
+### 𑣲⋆ Cipher Chat
+A social media platform, 2000s coded and easy to use.
 
 ---
 
